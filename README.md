@@ -1,5 +1,5 @@
 # Excel_Project_1
-Sales Analysis and customer identification and categorization in MS-Excel from raw sales data
+Data Cleaning and transformation, Sales Analysis and customer identification and categorization in MS-Excel from raw sales data
 
 ## Tasks done
  - Raw data cleaning
